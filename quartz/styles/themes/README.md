@@ -1,19 +1,19 @@
-# Tokyo Night Storm
+# Tokyo Night
 
-[Tokyo Night Storm](https://github.com/arozx)
+[Tokyo Night](#)
 
 ## Usage
 
 ```bash
-just theme Tokyo Night Storm
+just theme Tokyo Night
 ```
 
 ## Preview
 
 ### Light
 
-![Preview of Tokyo Night Storm Light](preview-light.png)
+![Preview of Tokyo Night Light](preview-light.png)
 
 ### Dark
 
-![Preview of Tokyo Night Storm Dark](preview-dark.png)
+![Preview of Tokyo Night Dark](preview-dark.png)
