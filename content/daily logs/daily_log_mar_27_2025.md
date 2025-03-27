@@ -4,6 +4,7 @@ draft: false
 tags:
   - trainig
   - daily-log
+  - data
 ---
 # [[daily_log_mar_27_2025]]
 ## Training type
