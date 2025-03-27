@@ -14,6 +14,7 @@ tags:
 2. Morning protein shake
 3. Protein cheesecake
 4. Protein yogurt (20 gram) with wheat bran and craisins
+5. vegan protein bar (vanilla/coffee)
 
 Total Calories: 1279
 
