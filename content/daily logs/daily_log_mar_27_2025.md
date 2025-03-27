@@ -1,5 +1,5 @@
 ---
-date: 27-03-2025
+date: 2025-03-27
 draft: false
 tags:
   - trainig
