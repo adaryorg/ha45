@@ -1,6 +1,6 @@
 ---
-date: 27-03-2025
-draft: true
+date: 2025-03-27
+draft: false
 tags:
   - nutrition
 ---
@@ -32,6 +32,12 @@ Total Calories:  1081
 Carbs: 36%, Fat: 28%, protein: 35%
 
 ## dinner
+1. Protein yogurt (20 gram)
+2. Dark chocolate (two squares)
+
+Total Calories:  310
+
+Carbs: 42%, Fat: 30%, Protein: 28%
 
 ## snacks
 1. Baked peanut puff snack
@@ -40,4 +46,4 @@ Total Calories: 382
 
 Carbs: 37%, Fat: 40%, Protein: 23%
 ## total calories today
-2741
+3051
