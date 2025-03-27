@@ -9,7 +9,9 @@ tags:
 ## Recipe Description
 
 ## Ingredients
-
+| Ingredient | Quantity |
+| :--------- | -------- |
+|            |          |
 ## Preparation
 ## Nutritional Values
 | Macro   |     |
