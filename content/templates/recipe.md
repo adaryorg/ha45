@@ -4,7 +4,6 @@ draft: true
 tags:
   - tag1
 ---
-
 # [[<% tp.file.title %>]]
 
 ## Recipe Description

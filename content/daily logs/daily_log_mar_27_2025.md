@@ -14,5 +14,8 @@ walk, 6.85km, 6836 steps, 1h9m
 ## Notes on training
 Light walk before morning activities, getting ready for 10k tomorrow morning.
 
+## Morning weight
+83.8kg
+
 
 

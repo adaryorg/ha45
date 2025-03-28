@@ -5,9 +5,11 @@ tags:
   - tag1
   - tag2
 ---
-
 # [[<% tp.file.title %>]]
 
 ## Training type
 
 ## Training notes
+
+## Morning weight
+
