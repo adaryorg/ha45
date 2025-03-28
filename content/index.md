@@ -16,3 +16,56 @@ Again tl;dr: Two and a half years later i'm not morbidly obese anymore, quite th
 I will use this site to log my progress, keep track of everything, and occasionally make geeky graphs that should make sense to me. If something like this is your cup of tea, welcome!
 
 (The good looking fella in the photo is me right after finishing the 10k run at the Tel Aviv Marathon)
+
+## graphs
+
+### Weight
+```tracker
+searchType: frontmatter
+searchTarget: weight
+datasetName: weight
+folder: 'daily logs'
+startDate: 2025-03-01
+endDate: 2025-03-31
+line:
+    title: Weight
+    yAxisLabel: Kg
+    yAxisUnit: Kg
+    lineColor: red
+    showLegend: true
+    legendPosition: bottom
+```
+
+### Steps and Distance
+
+```tracker
+searchType: frontmatter
+searchTarget: steps, distance
+datasetName: steps, distance
+folder: 'daily logs'
+startDate: 2025-03-01
+endDate: 2025-03-31
+line:
+    title: Weight
+    yAxisLabel: Kg
+    yAxisUnit: Kg
+    lineColor: red, blue
+    showLegend: true
+    legendPosition: bottom
+```
+### Daily calories
+```tracker
+searchType: frontmatter
+searchTarget: calories
+datasetName: calories
+folder: nutrition_log
+startDate: 2025-03-01
+endDate: 2025-03-31
+line:
+    title: Calories
+    yAxisLabel: Kcal
+    yAxisUnit: Kcal
+    lineColor: yellow
+    showLegend: true
+    legendPosition: bottom
+```
