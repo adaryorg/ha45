@@ -2,8 +2,7 @@
 date: 2025-03-28
 draft: false
 tags:
-  - tag1
-  - tag2
+  - nutrition
 ---
 # [[nutrition_log_mar_28_2025]]
 

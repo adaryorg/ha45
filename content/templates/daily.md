@@ -2,8 +2,9 @@
 date: <% tp.date.now("YYYY-MM-DD") %>
 draft: true
 tags:
-  - tag1
-  - tag2
+  - training
+  - daily-log
+  - data
 ---
 # [[<% tp.file.title %>]]
 

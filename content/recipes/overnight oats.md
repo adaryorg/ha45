@@ -3,6 +3,7 @@ date: 2025-03-27
 draft: false
 tags:
   - recipe
+  - nutrition
 ---
 # [[overnight oats]]
 
