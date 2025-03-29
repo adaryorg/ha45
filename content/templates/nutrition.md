@@ -3,6 +3,7 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 draft: true
 tags:
   - nutrition
+  - nutrition_data
 calories: 
 breakfast_calories: 
 breakfast_protein: 
