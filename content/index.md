@@ -17,6 +17,9 @@ I will use this site to log my progress, keep track of everything, and occasiona
 
 (The good looking fella in the photo is me right after finishing the 10k run at the Tel Aviv Marathon)
 
-To avoid any misunderstandings please read the [[Disclaimer]]!
+To avoid any misunderstandings please read the [[Disclaimer]]!<br>
+Since I am a nerd i have to show off my [[gear]]<br>
+Data tracking (coming soon) [[data]]
+
 
 
