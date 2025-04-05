@@ -22,5 +22,7 @@ To avoid any misunderstandings please read the [[Disclaimer]]!<br>
 Since I am a nerd i have to show off my [[gear]]<br>
 Data tracking (coming soon) [[data]]
 
+Check out the [[Timeline]]. I've come so far in such a short time!
+
 
 
