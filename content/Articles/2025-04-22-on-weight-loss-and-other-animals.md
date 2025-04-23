@@ -5,26 +5,56 @@ tags:
   - health
   - weightloss
   - article
-Title: All you ever wanted to know about weight loss and weren't afraid to ask!
+title: "It’s Simple—Not Easy: My Journey Through Weight Loss, Habit Change, and Finding Myself Again"
 ---
 # [[2025-04-22-on-weight-loss-and-other-animals]]
-## Raise your hand if you ever struggled with weight!
-I know that I have. In fact, for the better part of my life i was on the scale of overweight to morbidly obese, and only in the last two years i managed to take control of the issue and do something about it.<br>
-Now I can be supremely arrogant and say something along the lines of: as someone who lost almost half their body weight i'm uniquely qualified to.... but that would be total bullshit. What I can say is that weight loss it the simplest thing I ever did in my life, and it can be distilled down to:
-1. eat less
-2. move more
-And this is where the biggest mistake can be made: mistaking simple for easy. Losing weight is everything but easy. In fact, it's probably one of the hardest things I ever did in my life.
+## Raise your hand if you've ever struggled with your weight
+Yeah, me too.<br>
 
-## Simple definitely doesn't mean easy
-And everyone who confuses simple with easy does it at their own peril. We can define simple as not complicated, and when I distill weightloss down to eating less and moving more, those are the two main ingredients needed to lose weight. On the other hand, achieving those two simple goals can be extremely difficult, and its all down to our habits, and the ability (or inability) to change habits, eradicate bad ones, and acquire new, healthy ones. In my case a lot of people say that I had it easy since I had the weight loss surgery, that I didn't have to do almost anything to lose weight, and to some extent that is true. I did very little in the beginning to lose weight, but even before the surgery I started working on myself and my habits, and for about a year before the surgery I worked with a dietitian to form healthy eating habits, and I learned all I could about proper nutrition, eating healthy (and i mean really eating healthy, not gorging on junk food that is labeled as healthy because it has added protein) and most important, recognizing the habits that made me morbidly obese in the first place, and working very hard to eradicate and change them.<br>
-## Those pesky habits ...
-First bad habit I managed to lose was about my sleep schedule. I would always go to sleep late in the evening, and wake up as late in the morning as I can to be able to function, and get where I need in time. COVID period for sure didn't help with that, since suddenly I didn't have to wake up super early in the morning to get ready to to go office. My change was all about getting enough sleep. Instead of going to bed around 2am, and waking up at 8am, I started to aim toward 11pm bedtime, and slowly I started sleeping full 8 hours per night. With time the bed time became earlier, and i started waking up earlier in the morning, and I really started enjoying my morning. Instead of being a zombie with a cup of coffee at 8:30am, i started waking up easily at 6am and even earlier, and really enjoying my mornings. Not to mention that with time most of my exercise moved to morning hours, and nowdays I wake up at 4:30am and by 5:30 i'm already out and running or walking most of the days.<br>
-Second bad habit I managed to change was about my daily meals. Instead of having a coffee and a cigarette in the morning, and waiting till noon for my first meal, i started having proper 3 meals a day, with a rather early breakfast, and two snacks in between meals. Of course, I also started controlling my portions and making sure I don't overeat. I did take Ozempic at the time which helped lower my appetite, but Ozempic alone wouldn't have helped me lose almost 20kg (45lb) in that year I was waiting for the weight loss surgery to happen.<br>
-Third and fourth bad habits I got rid of were the most difficult ones. One of them was my nicotine consumption, and the other was my soft drink consumption. As a part of getting ready for weight loss surgery I had to completely stop drinking everything carbonated. This is something that can cause a lot of trouble after the surgery, and the advice of my dietitian was to stop it way before the surgery, and get used to my new life without any carbonatet drinks. This was actually way easier than I thought it will be. Nicotine was way way harder. I started smoking very young. Probably around the age of 12-13, and I smoked cigarettes for almost 30 years, when i switched to vaping. I don't want to go into whether vaping is good or bad for you (good it's not) or whether its worse and better than cigarettes, but what it did provide for me was the nicotine fix i needed, and I vaped for probably 7 or 8 years before i completely ditched the habit about 6 months ago. Big change I did before the weight loss surgery was switching to vape liquid without nicotine. I was (and still am) aware of the fact that nicotine addiction is one of the worst addictions out there. Completey quitting nicotine was extremely hard for me, and no matter how many times I tried in the past, I always came back either to cigarettes, or vapes with nicotine. This time around i just had to power through it, and it did require a lot of strenght and will power that I wasn't even sure I had in the begining. I did manage to power through it though, and nowadays i'm completely nicotine free.<br>
-## Movement, sport, and all that jazz
-The biggest change to my lifestyle started about two months after the weight loss surgery. While i was getting ready for it, one thing I didn't do was any kind of sports. It always sat in my mind that i have to start something, I have to do something, but I already had so much on my plate that I didn't want to add one more thing that I had to worry about. But after the surgery a lot of those previous worries became irrelevant, and I was able to shift my focus toward the long term future, and in that future I had to have some kind of sport on a regular basis. At first all I wanted was to go back to windsurfing which was the sport of my childhood. I also recognized the need for general fitness, and the fact that I had to work on my muscle tone after all the weight loss, and I had to boost up my muscle mass as much as possible. First thing I did was consult a personal trainer, and we created a two day a week gym program, and I also started walking on a dialy basis. The walks were short at first, and progressively became longer, until i was at a point where i was talking 5km walks every morning, and they were taking me less than one hour. Two days a week in the gym slowly became three days a week, and I did to back to windsurfing but not as my main sport. I still do enjoy it a lot, and look forward toward Fridays which are my beach days.<br>
-With time my walks slowly became runs, and runs lead to more runs, and the new habit that I formed was running 4 days a week and actually enjoying it. The weight is still gone, muscle tone is up, I feel amazing, and first and foremost, i'm healthy!
+For most of my life, I hovered somewhere between overweight and morbidly obese. Only in the last couple of years did I finally take real control—and begin turning things around.<br>
 
-## So yes, it is very simple
-And at the same time it's incredibly difficult, but as I like to say, if I was able to do it, anyone is able to do it as well. After all i'm just a dude like anyone else, and if I could find the strength to make the change, everyone can do it. It does take a lot of willpower, and a lot of strength, but the main thing is not giving up, and understanding the fact that the only person in the world i'm accountable to is myself. The moment I realized that, i stopped letting myself down, and I was able to make the change.<br>
-So do it. go for it. Fight for yourself and win the fight. You owe it to yourself!
+Now, I _could_ be that person who smugly says, “Well, after losing almost half my body weight, I’m uniquely qualified to tell you…” but let’s be honest, that would be total nonsense. What I _can_ say is this: losing weight, in theory, is incredibly simple. It all boils down to just two things:
+
+**Eat less. Move more.**
+
+But here’s the catch—and it’s a big one:  
+**Simple does not mean easy.**
+
+In fact, losing weight has been one of the most difficult things I’ve ever done. The science might be straightforward, but applying it in real life? That’s where things get complicated. The challenge doesn’t lie in the knowledge—it lies in our habits, and in how hard it is to change them.
+## Before the Surgery: Laying the Groundwork
+I had weight loss surgery, and people sometimes say, “Well, that made it easy for you.” And yes, surgery did help—but that’s only part of the story.
+
+Before I ever stepped into an operating room, I spent a year working with a dietitian. I learned how to eat in a way that genuinely nourished me—not just follow trends or snack on “healthy” junk food. I started identifying the behaviors that got me to my heaviest and, slowly, working to change them.<br>
+## The Sneaky Power of Habits
+#### 1. **Sleep Like It Matters (Because It Does)**
+
+My sleep schedule used to be a mess. I’d go to bed around 2 a.m. and drag myself out of bed by 8 (at best). During the pandemic, when commuting disappeared, it only got worse. So I began adjusting, slowly but surely—aiming for 11 p.m. bedtimes, then 10 p.m., then even earlier.
+
+Now? I’m up at 4:30 a.m. and out for a walk or a run by 5:30. Mornings went from being a groggy blur to the best part of my day.
+
+#### 2. **Fueling My Body (and Quitting the “Coffee and Cigarettes” Breakfast)**
+
+I swapped the coffee-cigarette combo for actual food—three solid meals a day, plus snacks in between. I kept portions in check and leaned into real nutrition. I also took Ozempic, which helped curb my appetite, but it was only one piece of a much bigger puzzle.
+
+#### 3. **Goodbye, Soda. Hello, Hydration.**
+
+I had to ditch carbonated drinks entirely in preparation for surgery—and surprisingly, it wasn’t that hard. Once I broke the habit, I didn’t miss it.
+
+#### 4. **Nicotine: The Toughest Goodbye**
+
+Quitting nicotine, on the other hand, was brutal. I started smoking as a kid and switched to vaping in adulthood. The turning point came when I moved to nicotine-free vape liquid before surgery, and then, eventually, quit completely.
+
+It took more strength and willpower than I thought I had, but I did it. Six months and counting, completely nicotine-free.
+## Movement, Muscles, and Rediscovering Sport
+Two months after surgery, I finally had the bandwidth—mentally and physically—to focus on fitness. I started walking daily, met with a personal trainer, and began strength training twice a week.
+
+Walks turned into runs. Gym sessions increased. I even got back into windsurfing, the sport of my childhood.
+
+Now, I run four days a week, lift weights, and spend Fridays at the beach. I feel strong, energized, and—for the first time in a long time—_really healthy_.
+
+## So Yes, It _Is_ Simple. And Also Really Hard.
+Here’s the truth: If I could do this, you can too. I'm not some superhero. I’m just a guy who decided to stop letting himself down and finally showed up—for himself.
+
+Change takes willpower, time, and relentless honesty with yourself. But the moment you realize you're the only person you need to answer to? That’s when the real transformation begins.
+
+So go for it. Fight for yourself. You absolutely deserve it.
