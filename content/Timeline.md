@@ -59,5 +59,7 @@ Time slowly passed, November 2022 came around, my wife had her surgery scheduled
 	* Overall state: amazing
 * March 22, 2025: first 15k run [strava link](https://www.strava.com/activities/13951347608)
 	* Stats same like February
-* April 5 2025: first 17km run
+* April 5 2025: first 17km run [strava link](https://www.strava.com/activities/14084150843)
 	* Stats same like March
+* April 26 2025: first half marathon run [strava link](https://www.strava.com/activities/14288872388)
+	* Stats same like rest of April
