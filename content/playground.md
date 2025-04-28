@@ -1,6 +1,6 @@
 ---
 date: 2025-04-28
-draft: false
+draft: true
 tags:
   - data
 ---
@@ -59,3 +59,5 @@ options:
   xField: label
   yField: value
 ```
+
+![[Chart Mon Apr 28 2025.jpeg]]
