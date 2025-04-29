@@ -1,6 +1,6 @@
 ---
 date: 2025-04-28
-draft: true
+draft: false
 tags:
   - data
 ---
@@ -60,3 +60,29 @@ options:
   yField: value
 ```
 
+```chart
+type: bar
+labels: [dates]
+series:
+  - title: 
+    data: [1,2,3,4,5] 
+ 
+tension: 0.2
+width: 80%
+labelColors: false
+fill: false
+beginAtZero: false
+bestFit: false
+bestFitTitle: undefined
+bestFitNumber: 0
+```
+
+```mermaid
+xychart-beta
+    title "Sales Revenue"
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+    y-axis "Revenue (in $)" 4000 --> 11000
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+
+```
