@@ -60,4 +60,3 @@ options:
   yField: value
 ```
 
-![[Chart Mon Apr 28 2025.jpeg]]
