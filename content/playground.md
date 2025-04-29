@@ -1,6 +1,6 @@
 ---
 date: 2025-04-28
-draft: true
+draft: false
 tags:
   - data
 ---
@@ -28,54 +28,18 @@ const chartData = {
     }, 
 }; 
 
-window.renderChart(chartData, this.container)
+const Mermaid = `xychart-beta
+    title Test 1 2 3 
+    x-axis ${dates}
+    y-axis "Steps" 
+    bar [${steps}]
+    line [${steps}]
+    `;
+dv.paragraph('```mermaid\n' + Mermaid + '\n```');
+
 ```
 
-```chartsview
-#-----------------#
-#- chart type    -#
-#-----------------#
-type: Line
 
-#-----------------#
-#- chart data    -#
-#-----------------#
-data:
-  - label: "1951"
-    value: 38
-  - label: "1952"
-    value: 52
-  - label: "1956"
-    value: 61
-  - label: "1957"
-    value: 145
-  - label: "1958"
-    value: 48
-
-#-----------------#
-#- chart options -#
-#-----------------#
-options:
-  xField: label
-  yField: value
-```
-
-```chart
-type: bar
-labels: [dates]
-series:
-  - title: 
-    data: [1,2,3,4,5] 
- 
-tension: 0.2
-width: 80%
-labelColors: false
-fill: false
-beginAtZero: false
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
 
 ```mermaid
 xychart-beta
