@@ -10,6 +10,8 @@ import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import numpy as np
 
+month = "April"
+
 
 class DailyLog:
     def __init__(self):
@@ -245,7 +247,6 @@ def writeHeader(header, filename):
 daily = DailyLog()
 nutrition = NutritionLog()
 
-month = "April"
 dates = getDates(month)
 
 filelist_d = glob.glob("../content/daily_logs/" + month + "/*.md")
