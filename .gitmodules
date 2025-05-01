@@ -1,3 +1,5 @@
 [submodule "content/.obsidian"]
 	path = content/.obsidian
 	url = git@github.com:adaryorg/obsidian_conf.git
+	branch = main
+	branch = update
