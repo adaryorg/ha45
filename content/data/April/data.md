@@ -9,7 +9,7 @@ tags:
 # Nutrition data
 ## Fat data
 
-> [!example]+ Fat graphs
+> [!example]- Fat graphs
 > ![[fat.png]]
 > ![[s_fat.png]]
 
@@ -71,7 +71,7 @@ tags:
 > 
 ## Carbs data
 
-> [!example]+ Carbs graphs
+> [!example]- Carbs graphs
 > ![[carbs.png]]
 > ![[s_carbs.png]]
 
@@ -133,7 +133,7 @@ tags:
 > 
 ## Protein data
 
-> [!example]+ Protein graphs
+> [!example]- Protein graphs
 > ![[protein.png]]
 > ![[s_protein.png]]
 
@@ -195,7 +195,7 @@ tags:
 > 
 ## Calories data
 
-> [!example]+ Calories graphs
+> [!example]- Calories graphs
 > ![[calories.png]]
 > ![[s_calories.png]]
 
@@ -258,7 +258,7 @@ tags:
 # Exercise data
 ## steps data
 
-> [!example]+ steps graphs
+> [!example]- steps graphs
 > ![[steps.png]]
 
 > [!example]- steps data
@@ -303,7 +303,7 @@ tags:
 > 
 ## distance data
 
-> [!example]+ distance graphs
+> [!example]- distance graphs
 > ![[distance.png]]
 
 > [!example]- distance data
@@ -348,7 +348,7 @@ tags:
 > 
 ## weight data
 
-> [!example]+ weight graphs
+> [!example]- weight graphs
 > ![[weight.png]]
 
 > [!example]- weight data
