@@ -20,7 +20,7 @@ I will use this site to log my progress, keep track of everything, and occasiona
 
 To avoid any misunderstandings please read the [[Disclaimer]]!<br>
 Since I am a nerd i have to show off my [[gear]]<br>
-Data tracking (coming soon) [[data]]
+Data tracking (coming soon) [[all_about_data]]
 
 Check out the [[Timeline]]. I've come so far in such a short time!
 

@@ -6,7 +6,7 @@ tags:
 title: All the geeky data should be here!
 ---
 
-# [[data]]
+# [[all_about_data]]
 
 ## Time to add some data!
 
