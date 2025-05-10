@@ -63,3 +63,8 @@ Time slowly passed, November 2022 came around, my wife had her surgery scheduled
 	* Stats same like March
 * April 26 2025: first half marathon run [strava link](https://www.strava.com/activities/14288872388)
 	* Stats same like rest of April
+* May 10 2025: first sub 35 minute 5k [strava link](https://www.strava.com/activities/14431875246)
+	* Weight: 84kg
+	* BMI: good :)
+	* A1C: 5.3
+	* Overall state: perfect
