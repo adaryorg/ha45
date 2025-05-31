@@ -68,3 +68,8 @@ Time slowly passed, November 2022 came around, my wife had her surgery scheduled
 	* BMI: good :)
 	* A1C: 5.3
 	* Overall state: perfect
+* May 31 2025: new 5k PR: 33:35 - [strava limk](https://www.strava.com/activities/14647287912)
+	* Weight: 84kg
+	* BMI: good :)
+	* A1C: 5.3
+	* Overall state: perfect!
