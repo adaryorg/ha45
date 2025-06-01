@@ -10,7 +10,7 @@ import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import numpy as np
 
-month = "April"
+month = "May"
 
 
 class DailyLog:
@@ -290,15 +290,15 @@ with open(filename, "w") as f:
     f.write("---\n")
     f.write("date: 2025-04-30\n")
     f.write("draft: false\n")
-    f.write("title: Data summary for April 2025\n")
+    f.write("title: Data summary for May 2025\n")
     f.write("tags:\n")
     f.write("  - data\n")
     f.write("---\n")
-    f.write("# [[data/April/data]]\n")
+    f.write("# [[data/May/data]]\n")
 
 writeHeader("Nutrition", filename)
 
-title = "Fat for April 2025"
+title = "Fat for May 2025"
 values1 = sortValues(nutrition.fat)
 values2 = sortValues(nutrition.b_fat)
 values3 = sortValues(nutrition.l_fat)
@@ -312,7 +312,7 @@ graph_name = "s_fat"
 plotSingleGraph(dates, graph_name, values1, title, month)
 writeNutritionTable(values_all, "Fat", filename, dates)
 
-title = "Carbs for April 2025"
+title = "Carbs for May 2025"
 values1 = sortValues(nutrition.carbs)
 values2 = sortValues(nutrition.b_carbs)
 values3 = sortValues(nutrition.l_carbs)
@@ -326,7 +326,7 @@ graph_name = "s_carbs"
 plotSingleGraph(dates, graph_name, values1, title, month)
 writeNutritionTable(values_all, "Carbs", filename, dates)
 
-title = "Protein for April 2025"
+title = "Protein for May 2025"
 values1 = sortValues(nutrition.protein)
 values2 = sortValues(nutrition.b_protein)
 values3 = sortValues(nutrition.l_protein)
@@ -340,7 +340,7 @@ graph_name = "s_protein"
 plotSingleGraph(dates, graph_name, values1, title, month)
 writeNutritionTable(values_all, "Protein", filename, dates)
 
-title = "Calories for April 2025"
+title = "Calories for May 2025"
 values1 = sortValues(nutrition.calories)
 values2 = sortValues(nutrition.b_calories)
 values3 = sortValues(nutrition.l_calories)
@@ -356,19 +356,19 @@ writeNutritionTable(values_all, "Calories", filename, dates)
 
 writeHeader("Exercise", filename)
 
-title = "Steps for April 2025"
+title = "Steps for May 2025"
 graph_name = "steps"
 values = sortValues(daily.steps)
 plotSingleGraph(dates, graph_name, values, title, month)
 writeExerciseTable(values, graph_name, filename, dates)
 
-title = "Distance for April 2025"
+title = "Distance for May 2025"
 graph_name = "distance"
 values = sortValues(daily.distance)
 plotSingleGraph(dates, graph_name, values, title, month)
 writeExerciseTable(values, graph_name, filename, dates)
 
-title = "Weight for April 2025"
+title = "Weight for May 2025"
 graph_name = "weight"
 values = sortValues(daily.weight)
 plotSingleGraph(dates, graph_name, values, title, month)
