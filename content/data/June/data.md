@@ -9,7 +9,7 @@ tags:
 # Nutrition data
 ## Fat data
 
-> [!example]- Fat graphs
+> [example]- Fat graphs
 > ![[fat.png]]
 > ![[s_fat.png]]
 
