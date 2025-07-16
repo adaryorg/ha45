@@ -1,11 +1,11 @@
 ---
-date: 2025-07-01
+date: 2025-04-30
 draft: false
-title: Data summary for June 2025
+title: Data summary for May 2025
 tags:
   - data
 ---
-# [[data/June/data]]
+# [[data/May/data]]
 # Nutrition data
 ## Fat data
 
@@ -72,8 +72,8 @@ tags:
 ## Carbs data
 
 > [!example]- Carbs graphs
-> ![[carbs.png]]
-> ![[s_carbs.png]]
+> [![img](https://ha45.org/data/June/carbs.png)](https://ha45.org/data/June/carbs.png)
+> [![img](https://ha45.org/data/June/s_carbs.png)](https://ha45.org/data/June/s_carbs.png)
 
 > [!example]- Carbs data
 > | Date | Total Carbs | Breakfast Carbs | Lunch Carbs | Dinner Carbs | Snacks Carbs | Sum |
@@ -134,8 +134,8 @@ tags:
 ## Protein data
 
 > [!example]- Protein graphs
-> ![[protein.png]]
-> ![[s_protein.png]]
+> [![img](https://ha45.org/data/June/protein.png)](https://ha45.org/data/June/protein.png)
+> [![img](https://ha45.org/data/June/s_protein.png)](https://ha45.org/data/June/s_protein.png)
 
 > [!example]- Protein data
 > | Date | Total Protein | Breakfast Protein | Lunch Protein | Dinner Protein | Snacks Protein | Sum |
@@ -196,8 +196,8 @@ tags:
 ## Calories data
 
 > [!example]- Calories graphs
-> ![[calories.png]]
-> ![[s_calories.png]]
+> [![img](https://ha45.org/data/June/calories.png)](https://ha45.org/data/June/calories.png)
+> [![img](https://ha45.org/data/June/s_calories.png)](https://ha45.org/data/June/s_calories.png)
 
 > [!example]- Calories data
 > | Date | Total Calories | Breakfast Calories | Lunch Calories | Dinner Calories | Snacks Calories | Sum |
@@ -259,7 +259,7 @@ tags:
 ## steps data
 
 > [!example]- steps graphs
-> ![[steps.png]]
+> [![img](https://ha45.org/data/June/steps.png)](https://ha45.org/data/June/steps.png)
 
 > [!example]- steps data
 > | Date | Total steps |
@@ -304,7 +304,7 @@ tags:
 ## distance data
 
 > [!example]- distance graphs
-> ![[distance.png]]
+> [![img](https://ha45.org/data/June/distance.png)](https://ha45.org/data/June/distance.png)
 
 > [!example]- distance data
 > | Date | Total distance |
@@ -349,7 +349,7 @@ tags:
 ## weight data
 
 > [!example]- weight graphs
-> ![[weight.png]]
+> [![img](https://ha45.org/data/June/weight.png)](https://ha45.org/data/June/weight.png)
 
 > [!example]- weight data
 > | Date | Total weight |
