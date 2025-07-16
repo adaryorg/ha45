@@ -10,8 +10,8 @@ tags:
 ## Fat data
 
 > [!example]- Fat graphs
-> ![[fat.png]]
-> ![[s_fat.png]]
+> [![img](https://ha45.org/data/May/fat.png)](https://ha45.org/data/May/fat.png)
+> [![img](https://ha45.org/data/May/s_fat.png)](https://ha45.org/data/May/s_fat.png)
 
 > [!example]- Fat data
 > | Date | Total Fat | Breakfast Fat | Lunch Fat | Dinner Fat | Snacks Fat | Sum |
@@ -73,8 +73,8 @@ tags:
 ## Carbs data
 
 > [!example]- Carbs graphs
-> ![[carbs.png]]
-> ![[s_carbs.png]]
+> [![img](https://ha45.org/data/May/carbs.png)](https://ha45.org/data/May/carbs.png)
+> [![img](https://ha45.org/data/May/s_carbs.png)](https://ha45.org/data/May/s_carbs.png)
 
 > [!example]- Carbs data
 > | Date | Total Carbs | Breakfast Carbs | Lunch Carbs | Dinner Carbs | Snacks Carbs | Sum |
@@ -136,8 +136,8 @@ tags:
 ## Protein data
 
 > [!example]- Protein graphs
-> ![[protein.png]]
-> ![[s_protein.png]]
+> [![img](https://ha45.org/data/May/protein.png)](https://ha45.org/data/May/protein.png)
+> [![img](https://ha45.org/data/May/s_protein.png)](https://ha45.org/data/May/s_protein.png)
 
 > [!example]- Protein data
 > | Date | Total Protein | Breakfast Protein | Lunch Protein | Dinner Protein | Snacks Protein | Sum |
@@ -199,8 +199,8 @@ tags:
 ## Calories data
 
 > [!example]- Calories graphs
-> ![[calories.png]]
-> ![[s_calories.png]]
+> [![img](https://ha45.org/data/May/calories.png)](https://ha45.org/data/May/calories.png)
+> [![img](https://ha45.org/data/May/s_calories.png)](https://ha45.org/data/May/s_calories.png)
 
 > [!example]- Calories data
 > | Date | Total Calories | Breakfast Calories | Lunch Calories | Dinner Calories | Snacks Calories | Sum |
@@ -263,7 +263,7 @@ tags:
 ## steps data
 
 > [!example]- steps graphs
-> ![[steps.png]]
+> [![img](https://ha45.org/data/May/steps.png)](https://ha45.org/data/May/steps.png)
 
 > [!example]- steps data
 > | Date | Total steps |
@@ -309,7 +309,7 @@ tags:
 ## distance data
 
 > [!example]- distance graphs
-> ![[distance.png]]
+> [![img](https://ha45.org/data/May/distance.png)](https://ha45.org/data/May/distance.png)
 
 > [!example]- distance data
 > | Date | Total distance |
@@ -355,7 +355,7 @@ tags:
 ## weight data
 
 > [!example]- weight graphs
-> ![[weight.png]]
+> [![img](https://ha45.org/data/May/weight.png)](https://ha45.org/data/May/weight.png)
 
 > [!example]- weight data
 > | Date | Total weight |
