@@ -10,8 +10,8 @@ tags:
 ## Fat data
 
 > [!example]- Fat graphs
-> ![fat](https://ha45.org/data/June/fat.png)
-> ![s_fat](https://ha45.org/data/June/s_fat.png)
+> [![img](https://ha45.org/data/June/fat.png)](https://ha45.org/data/June/fat.png)
+> [![img](https://ha45.org/data/June/s_fat.png)](https://ha45.org/data/June/s_fat.png)
 
 > [!example]- Fat data
 > | Date | Total Fat | Breakfast Fat | Lunch Fat | Dinner Fat | Snacks Fat | Sum |
