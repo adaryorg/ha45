@@ -15,4 +15,5 @@ For quite some time I tried to turn the data I was collecting every day into nic
 April 2025 summary: [[data/April/data]]
 May 2025 summary: [[data/May/data]]
 June 2025 summary: [[data/June/data]]
+July 2025 summary:[[data/July/data]]
 
