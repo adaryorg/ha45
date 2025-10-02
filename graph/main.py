@@ -304,11 +304,11 @@ with open(filename, "w") as f:
     f.write("---\n")
     f.write("date: 2025-04-30\n")
     f.write("draft: false\n")
-    f.write("title: Data summary for May 2025\n")
+    f.write(f"title: Data summary for {month} 2025\n")
     f.write("tags:\n")
     f.write("  - data\n")
     f.write("---\n")
-    f.write("# [[data/May/data]]\n")
+    f.write(f"# [[data/{month}/data]]\n")
 
 writeHeader("Nutrition", filename)
 
