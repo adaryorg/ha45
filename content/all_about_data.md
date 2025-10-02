@@ -17,4 +17,5 @@ May 2025 summary: [[data/May/data]]
 June 2025 summary: [[data/June/data]]
 July 2025 summary:[[data/July/data]]
 August 2025 summary: [[data/August/data]]
+September 2025 summary: [[data/September/data]]
 
