@@ -1,11 +1,11 @@
 ---
 date: 2025-04-30
 draft: false
-title: Data summary for May 2025
+title: Data summary for June 2025
 tags:
   - data
 ---
-# [[data/May/data]]
+# [[data/June/data]]
 # Nutrition data
 ## Fat data
 
