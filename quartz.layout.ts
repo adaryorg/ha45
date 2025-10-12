@@ -30,7 +30,7 @@ const recentNotes = [
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
+  afterBody: [...recentNotes.map((c) => Component.MobileOnly(c))],
   Component.Comments({
     provider: 'giscus',
     options: {
