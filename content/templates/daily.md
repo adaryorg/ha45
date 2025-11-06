@@ -14,4 +14,3 @@ distance:
 ## Training notes
 
 ## Morning weight
-
