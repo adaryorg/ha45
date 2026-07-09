@@ -1,0 +1,60 @@
+---
+date: <% tp.date.now("YYYY-MM-DD") %>
+draft: true
+tags:
+  - nutrition
+  - nutrition_data
+calories: 
+breakfast_calories: 
+breakfast_protein: 
+breakfast_fat: 
+breakfast_carbs: 
+protein: 
+carbs: 
+fat: 
+lunch_calories: 
+lunch_carbs: 
+lunch_fat: 
+lunch_protein: 
+dinner_calories: 
+dinner_carbs: 
+dinner_fat: 
+dinner_protein: 
+snacks_calories: 
+snacks_carbs: 
+snacks_fat: 
+snacks_protein:
+---
+# [[<% tp.file.title %>]]
+
+## Calorie goal
+
+## Breakfast
+1. x
+
+Total Calories: 
+
+Carbs: %. Fat: %, Protein %
+
+## Lunch
+1. x
+
+Total Calories: 
+
+Carbs: %. Fat: %, Protein %
+
+## Dinner
+1. x
+
+Total Calories: 
+
+Carbs: %. Fat: %, Protein %
+
+## Snacks
+1. x
+
+Total Calories: 
+
+Carbs: %. Fat: %, Protein %
+
+## Total Calories
