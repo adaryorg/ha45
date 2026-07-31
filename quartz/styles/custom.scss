@@ -321,6 +321,11 @@
     color: inherit;
   }
 
+  .site-footer-credits {
+    display: grid;
+    gap: 0.25rem;
+  }
+
   a {
     color: var(--secondary);
   }
