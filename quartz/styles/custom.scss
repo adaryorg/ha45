@@ -77,6 +77,8 @@
 
     .sidebar.left {
       position: relative !important;
+      z-index: 200 !important;
+      isolation: isolate;
       top: auto;
       width: 100%;
       min-width: 0;
@@ -99,6 +101,16 @@
 
       .recent-notes {
         display: none;
+      }
+
+      .explorer-content {
+        z-index: 201;
+        background-color: var(--light) !important;
+        opacity: 1;
+      }
+
+      .mobile-explorer {
+        z-index: 202;
       }
     }
   }
