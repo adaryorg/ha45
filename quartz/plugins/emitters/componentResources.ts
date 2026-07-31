@@ -8,6 +8,10 @@ import spaRouterScript from "../../components/scripts/spa.inline"
 import popoverScript from "../../components/scripts/popover.inline"
 // @ts-ignore
 import healthCalculatorsScript from "../../components/scripts/healthCalculators.inline"
+// @ts-ignore
+import runningCalculatorsScript from "../../components/scripts/runningCalculators.inline"
+// @ts-ignore
+import trainingCalculatorsScript from "../../components/scripts/trainingCalculators.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
@@ -87,6 +91,8 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   const cfg = ctx.cfg.configuration
 
   componentResources.afterDOMLoaded.push(healthCalculatorsScript)
+  componentResources.afterDOMLoaded.push(runningCalculatorsScript)
+  componentResources.afterDOMLoaded.push(trainingCalculatorsScript)
 
   // popovers
   if (cfg.enablePopovers) {

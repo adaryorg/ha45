@@ -6,11 +6,13 @@ const navigation = [
   { label: "Blog", path: "articles", matches: (slug: string) => slug.startsWith("articles") },
   { label: "Recipes", path: "recipes", matches: (slug: string) => slug.startsWith("recipes") },
   { label: "About", path: "about", matches: (slug: string) => slug === "about" },
-  {
-    label: "Calculators",
-    path: "calculators",
-    matches: (slug: string) => slug.startsWith("calculators"),
-  },
+]
+
+const calculatorNavigation = [
+  { label: "Overview", path: "calculators" },
+  { label: "Body Stats", path: "calculators/body-stats" },
+  { label: "Running", path: "calculators/running" },
+  { label: "Training", path: "calculators/training" },
 ]
 
 const SiteHeader: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
@@ -47,6 +49,30 @@ const SiteHeader: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) =>
               </li>
             )
           })}
+          <li class="nav-dropdown">
+            <details>
+              <summary aria-current={slug.startsWith("calculators") ? "page" : undefined}>
+                Calculators <span aria-hidden="true">▾</span>
+              </summary>
+              <ul class="nav-submenu">
+                {calculatorNavigation.map((item) => (
+                  <li>
+                    <a
+                      href={joinSegments(baseDir, item.path)}
+                      aria-current={
+                        slug === item.path ||
+                        (item.path === "calculators" && slug === "calculators/index")
+                          ? "page"
+                          : undefined
+                      }
+                    >
+                      {item.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </details>
+          </li>
         </ul>
       </nav>
     </div>

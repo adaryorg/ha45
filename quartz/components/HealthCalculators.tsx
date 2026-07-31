@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
 const HealthCalculators: QuartzComponent = () => {
   return (
-    <section class="health-calculators" aria-label="Health calculators">
+    <section class="health-calculators" aria-label="Body statistics calculators">
       <div class="calculator-toolbar">
         <span class="calculator-toolbar-label">Units</span>
         <div class="unit-switch" role="radiogroup" aria-label="Measurement system">

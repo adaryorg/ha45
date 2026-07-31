@@ -1,13 +1,17 @@
 import { PageFrame, PageFrameProps } from "./types"
 import HeaderConstructor from "../Header"
 import HealthCalculatorsConstructor from "../HealthCalculators"
+import RunningCalculatorsConstructor from "../RunningCalculators"
 import SiteFooterConstructor from "../SiteFooter"
 import SiteHeaderConstructor from "../SiteHeader"
+import TrainingCalculatorsConstructor from "../TrainingCalculators"
 
 const Header = HeaderConstructor()
 const HealthCalculators = HealthCalculatorsConstructor()
+const RunningCalculators = RunningCalculatorsConstructor()
 const SiteFooter = SiteFooterConstructor()
 const SiteHeader = SiteHeaderConstructor()
+const TrainingCalculators = TrainingCalculatorsConstructor()
 
 /**
  * The default page frame — three-column layout with left sidebar, center
@@ -49,8 +53,14 @@ export const DefaultFrame: PageFrame = {
             </div>
           </div>
           <Content {...componentData} />
-          {componentData.fileData.slug === "calculators" && (
+          {componentData.fileData.slug === "calculators/body-stats" && (
             <HealthCalculators {...componentData} />
+          )}
+          {componentData.fileData.slug === "calculators/running" && (
+            <RunningCalculators {...componentData} />
+          )}
+          {componentData.fileData.slug === "calculators/training" && (
+            <TrainingCalculators {...componentData} />
           )}
           <hr />
           <div class="page-footer">
