@@ -12,6 +12,7 @@ const calculatorNavigation = [
   { label: "Overview", path: "calculators" },
   { label: "Body Stats", path: "calculators/body-stats" },
   { label: "Running", path: "calculators/running" },
+  { label: "Cycling", path: "calculators/cycling" },
   { label: "Training", path: "calculators/training" },
 ]
 

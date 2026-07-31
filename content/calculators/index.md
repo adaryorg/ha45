@@ -16,6 +16,10 @@ BMI and estimated daily calorie use, with metric and imperial measurements.
 
 Work out pace and speed, or turn a recent race result into an estimate for another distance.
 
+## [[Cycling]]
+
+Calculate average cycling speed, gear ratios, gear inches, rollout, and speed at a selected cadence.
+
 ## [[Training]]
 
 Estimate heart-rate training zones and one-rep max without having to trust the arithmetic you did between sets.

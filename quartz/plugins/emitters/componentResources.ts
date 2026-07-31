@@ -9,6 +9,8 @@ import popoverScript from "../../components/scripts/popover.inline"
 // @ts-ignore
 import healthCalculatorsScript from "../../components/scripts/healthCalculators.inline"
 // @ts-ignore
+import cyclingCalculatorsScript from "../../components/scripts/cyclingCalculators.inline"
+// @ts-ignore
 import runningCalculatorsScript from "../../components/scripts/runningCalculators.inline"
 // @ts-ignore
 import trainingCalculatorsScript from "../../components/scripts/trainingCalculators.inline"
@@ -91,6 +93,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   const cfg = ctx.cfg.configuration
 
   componentResources.afterDOMLoaded.push(healthCalculatorsScript)
+  componentResources.afterDOMLoaded.push(cyclingCalculatorsScript)
   componentResources.afterDOMLoaded.push(runningCalculatorsScript)
   componentResources.afterDOMLoaded.push(trainingCalculatorsScript)
 

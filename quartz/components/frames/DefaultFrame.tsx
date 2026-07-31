@@ -1,5 +1,6 @@
 import { PageFrame, PageFrameProps } from "./types"
 import HeaderConstructor from "../Header"
+import CyclingCalculatorsConstructor from "../CyclingCalculators"
 import HealthCalculatorsConstructor from "../HealthCalculators"
 import RunningCalculatorsConstructor from "../RunningCalculators"
 import SiteFooterConstructor from "../SiteFooter"
@@ -7,6 +8,7 @@ import SiteHeaderConstructor from "../SiteHeader"
 import TrainingCalculatorsConstructor from "../TrainingCalculators"
 
 const Header = HeaderConstructor()
+const CyclingCalculators = CyclingCalculatorsConstructor()
 const HealthCalculators = HealthCalculatorsConstructor()
 const RunningCalculators = RunningCalculatorsConstructor()
 const SiteFooter = SiteFooterConstructor()
@@ -58,6 +60,9 @@ export const DefaultFrame: PageFrame = {
           )}
           {componentData.fileData.slug === "calculators/running" && (
             <RunningCalculators {...componentData} />
+          )}
+          {componentData.fileData.slug === "calculators/cycling" && (
+            <CyclingCalculators {...componentData} />
           )}
           {componentData.fileData.slug === "calculators/training" && (
             <TrainingCalculators {...componentData} />
