@@ -8,55 +8,58 @@ tags:
 title: "It’s Simple—Not Easy: My Journey Through Weight Loss, Habit Change, And Finding Myself Again"
 description: The principles of weight loss are simple. Changing the habits underneath them is where things become difficult.
 ---
+
 # It’s Simple—Not Easy: My Journey Through Weight Loss, Habit Change, And Finding Myself Again
 
-## Raise Your Hand If You've Ever Struggled With Your Weight
-Yeah, me too.<br>
+For most of my life, my weight moved between overweight and morbidly obese. I understood the general principle of weight loss perfectly well. This did not create the minor inconvenience of actually losing weight.
 
-For most of my life, I hovered somewhere between overweight and morbidly obese. Only in the last couple of years did I finally take real control—and begin turning things around.<br>
+At its most basic, weight change involves energy intake and expenditure. People often reduce this to “eat less and move more,” deliver it as if they have solved human behaviour, and then look pleased with themselves.
 
-Now, I _could_ be that person who smugly says, “Well, after losing almost half my body weight, I’m uniquely qualified to tell you…” but let’s be honest, that would be total nonsense. What I _can_ say is this: losing weight, in theory, is incredibly simple. It all boils down to just two things:
+The principle is simple. Living it is not.
 
-**Eat less. Move more.**
+Food is tied to habit, stress, convenience, reward, family, culture, boredom, and whatever disaster happens to be unfolding that week. Movement depends on time, health, confidence, sleep, and whether your knees have filed an objection. Knowing the equation does not make those factors disappear.
 
-But here’s the catch—and it’s a big one:  
-**Simple does not mean easy.**
+## Surgery Was Not An Easy Button
 
-In fact, losing weight has been one of the most difficult things I’ve ever done. The science might be straightforward, but applying it in real life? That’s where things get complicated. The challenge doesn’t lie in the knowledge—it lies in our habits, and in how hard it is to change them.
-## Before The Surgery: Laying The Groundwork
-I had weight loss surgery, and people sometimes say, “Well, that made it easy for you.” And yes, surgery did help—but that’s only part of the story.
+I had bariatric surgery. Some people hear that and conclude that surgery did the work for me. It certainly helped; denying that would be ridiculous. It changed my appetite, portions, and physical ability to eat. It did not choose my meals, build an exercise routine, stop nicotine, improve my sleep, or keep me consistent after the initial weight loss.
 
-Before I ever stepped into an operating room, I spent a year working with a dietitian. I learned how to eat in a way that genuinely nourished me—not just follow trends or snack on “healthy” junk food. I started identifying the behaviors that got me to my heaviest and, slowly, working to change them.<br>
-## The Sneaky Power Of Habits
-#### 1. **Sleep Like It Matters (Because It Does)**
+Before surgery, I spent a year working with a dietitian. I learned to eat regular meals, pay attention to portions, and recognise the behaviours that had helped me reach 150 kg. Surgery provided leverage, but habits determined what happened with it.
 
-My sleep schedule used to be a mess. I’d go to bed around 2 a.m. and drag myself out of bed by 8 (at best). During the pandemic, when commuting disappeared, it only got worse. So I began adjusting, slowly but surely—aiming for 11 p.m. bedtimes, then 10 p.m., then even earlier.
+## Sleep Came First
 
-Now? I’m up at 4:30 a.m. and out for a walk or a run by 5:30. Mornings went from being a groggy blur to the best part of my day.
+My old sleep schedule involved going to bed around 2 a.m. and dragging myself up by 8, often later when working from home removed the threat of a commute. I treated exhaustion as a personality trait.
 
-#### 2. **Fueling My Body (And Quitting The “Coffee And Cigarettes” Breakfast)**
+I moved bedtime earlier in stages: first 11, then 10, then earlier still. Eventually I was waking around 4:30 and going out for a walk or run by 5:30. This would have sounded like a punishment to my younger self. It became one of the best parts of my day.
 
-I swapped the coffee-cigarette combo for actual food—three solid meals a day, plus snacks in between. I kept portions in check and leaned into real nutrition. I also took Ozempic, which helped curb my appetite, but it was only one piece of a much bigger puzzle.
+Better sleep did not solve everything. It made everything else less difficult, which is often the more realistic bargain.
 
-#### 3. **Goodbye, Soda. Hello, Hydration.**
+## Breakfast Became Food
 
-I had to ditch carbonated drinks entirely in preparation for surgery—and surprisingly, it wasn’t that hard. Once I broke the habit, I didn’t miss it.
+For years, breakfast meant coffee and cigarettes. Nutritionally, this left some room for improvement.
 
-#### 4. **Nicotine: The Toughest Goodbye**
+I replaced it with actual food and settled into regular meals and planned snacks. I focused on portions, protein, vegetables, and enough carbohydrates and fats to make meals satisfying. I also used Ozempic under medical supervision for blood-glucose control. It reduced my appetite, but it was one part of a much larger change.
 
-Quitting nicotine, on the other hand, was brutal. I started smoking as a kid and switched to vaping in adulthood. The turning point came when I moved to nicotine-free vape liquid before surgery, and then, eventually, quit completely.
+## Some Habits Left More Easily Than Others
 
-It took more strength and willpower than I thought I had, but I did it. Six months and counting, completely nicotine-free.
-## Movement, Muscles, And Rediscovering Sport
-Two months after surgery, I finally had the bandwidth—mentally and physically—to focus on fitness. I started walking daily, met with a personal trainer, and began strength training twice a week.
+Preparing for surgery meant giving up carbonated drinks. Surprisingly, that was not especially difficult. Once the habit broke, I stopped missing them.
 
-Walks turned into runs. Gym sessions increased. I even got back into windsurfing, the sport of my childhood.
+Nicotine was different. I started smoking when I was young and later switched to vaping, which allowed me to preserve the addiction while feeling technologically current. Before surgery, I moved to nicotine-free liquid and eventually stopped vaping altogether.
 
-Now, I run four days a week, lift weights, and spend Fridays at the beach. I feel strong, energized, and—for the first time in a long time—_really healthy_.
+At the time this article was first written, I had been nicotine-free for six months. Quitting required more patience and unpleasantness than any inspirational poster had prepared me for.
 
-## So Yes, It _Is_ Simple. And Also Really Hard.
-Here’s the truth: If I could do this, you can too. I'm not some superhero. I’m just a guy who decided to stop letting himself down and finally showed up—for himself.
+## Walking Turned Into Training
 
-Change takes willpower, time, and relentless honesty with yourself. But the moment you realize you're the only person you need to answer to? That’s when the real transformation begins.
+About two months after surgery, I began walking every day and working with a personal trainer twice a week. The walks became longer, then faster, and eventually turned into runs. Strength sessions became part of the week. I also returned to windsurfing, a sport I had loved when I was younger.
 
-So go for it. Fight for yourself. You absolutely deserve it.
+None of this arrived as a dramatic transformation. It was repetition: wake up, put on shoes, go outside, do the session, and repeat. Progress is often boring while it is happening. It becomes a story only afterwards.
+
+## Simple Still Does Not Mean Easy
+
+I do not believe that anybody can copy my process and receive the same result. Bodies, health, resources, responsibilities, and starting points differ. I also do not believe that change requires becoming a superhero.
+
+It requires an honest look at the habits producing the current result, then enough patience to change them without expecting a perfect record. Surgery helped me enormously. Medication helped. Medical professionals helped. So did walking, sleep, regular food, training, and repeatedly starting again after imperfect days.
+
+There was no single secret. There was a collection of unglamorous decisions made often enough to matter.
+
+That is less exciting than a miracle solution, which is unfortunate for anyone trying to sell one. It is also considerably more useful.
+

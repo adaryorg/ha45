@@ -8,23 +8,46 @@ tags:
 title: Don't Be Afraid To Take Some Time Off
 description: Recovery is part of training, particularly when your body no longer believes it is twenty-five.
 ---
+
 # Don't Be Afraid To Take Some Time Off
 
-## Training Is Good, But It Can Be Better!
-If you started your health and fitness journey a bit later in life just like I did, lets say around the age or 45, you have to face the certain facts (just like I do):
-1. We are not as young as we used to be, and our bodies don't recover as fast as they used to
-2. Read the fact number 1
-3. Read the fact number 2, and then the fact number 1
-Back in our 20's (or even earlier) we didn't really have to think about recovery. Things happened, we would shrug them off, and move on as if nothing happened. People who took care of themselves and did sports for the most of their life will also have it way easier than we do because years upon years of neglect already did their damage.<br>
-But enough of that, lets look at the positive. You are here, you are working on your health, you are losing (or have already lost) a lot of extra weight, you train almost on a daily basis, and you are becoming obsessive about training (see how cheeky I got here?).<br>
-## Let's Face It, We Are Not Getting Any Younger!
-Our bodies take longer to recover. A lot of people give training advice, what to do, how to train, but since I'm not a professional in the fields of sports, health or nutrition, I don't want to give training advice, but my experience so far sort of places me in a unique position where I can give out some advice on resting and how to plan resting days or even weeks.<br>
-Most important: listen to your body. Don't ignore pain, don't ignore fatigue. Stop telling yourself that you can (or should) push through because ignoring our bodies and the pain signals we get can lead to huge setbacks and possible injuries that can easily be avoided.<br>
-## Plan Your Weekly And Monthly Schedules Wisely
-The weekly training schedule I chose for myself is 4 days on, 2 days half off, and one day completely off. This means that I run 4 days a week, i walk two days a week, and I take one day off without any real exercise. I try to combine my gym days on the days when I don't run, but in any case I do my runs in the morning, and gym in the afternoon/evening. On the rest day I try to avoid any strenuous activities, but i will go to the beach, or participate in other light activities (no need to turn into a couch potato for that one day).<br>
-## Rest Or Reset Every Once In A While!
-But one thing that is more important than the rest day is to give yourself an occasional rest week where you keep the training to the minimum, and stop obsessing about small details. If you track your daily calories like I do, this is the right time to pause for a week. If you track your exercise with your watch, don't do it this week. Do simple things like walks, light runs, easy hikes, or just spend quality time with friends and family. How often should you do this? I generally go for once every 6 to 8 weeks. I pause all my current exercise programs, and after the rest week is done, i re-start the training programs with slightly lower loads, and ease myself back into training gradually.
+Starting fitness later in life involves accepting several inconvenient facts:
 
-## A Bit About Pain And Injury
-If for any reason you start feeling consistent pain in any part of your body, especially your joints like ankles and knees, don't ignore it. Check it out, see a professional, even get it x-rayed or what ever it takes to figure out what is going on. Ignored injuries can lead to prolonged periods without activity, long and boring physio sessions, and completely needless complications. Just listen to what your body is telling you, rest, and take care of yourself. Thats the main reason we are doing what we are doing!<br>
-The better you take care of your self, the longer will your body be able to sustain this new active and healthy lifestyle!
+1. We are not as young as we used to be.
+2. Recovery takes longer than it used to.
+3. Reading the first two points again will not produce a loophole.
+
+In our twenties, many of us could sleep badly, train badly, recover accidentally, and continue as if nothing had happened. The body was remarkably tolerant of poor management. After 45, it begins submitting written complaints.
+
+## Rest Is Part Of Training
+
+I am not a doctor, physiotherapist, or professional coach, so this is not a training prescription. It is the approach that helps me remain active without repeatedly breaking the equipment.
+
+Fatigue is information. Pain is information. Neither automatically means catastrophe, but ignoring both because a motivational video used the word “discipline” is not evidence of character.
+
+There is a difference between the ordinary discomfort of effort and a persistent warning that something is wrong. Learning that difference takes time, attention, and occasionally advice from someone qualified.
+
+## My Weekly Schedule
+
+My usual week contains four running days, two lighter walking days, and one day without structured exercise. Strength sessions generally happen on days when I do not run. Runs are usually in the morning; the gym comes later.
+
+This is my schedule, not a template handed down from a mountain. Training history, age, work, sleep, health, and recovery all matter. A plan that fits neatly into a fitness application may fit considerably less neatly into an actual human life.
+
+On my rest day, I avoid hard training. I may walk, go to the beach, or do something else light. Rest does not require entering a medically induced relationship with the sofa.
+
+## The Occasional Reset
+
+Every six to eight weeks, I often take an easier week. I reduce the training load, stop chasing perfect metrics, and do uncomplicated things: walking, easy running, light hiking, or spending time with people who do not want to discuss heart-rate zones.
+
+Afterwards, I return gradually instead of attempting to recover the entire week in one heroic session. Fitness is not lost because several days were easy. It is far more likely to be interrupted by an injury caused by refusing to take them.
+
+## Pain Deserves Attention
+
+Persistent or worsening pain—particularly around joints such as knees and ankles—should not become background noise. Reduce the load and, when appropriate, speak to a qualified professional who can assess what is actually happening.
+
+Not every ache requires a scan. Not every ache should be ignored either. Guessing confidently remains guessing.
+
+An injury dealt with early may require a short adjustment. An injury fed with stubbornness may buy you months of inactivity and a close personal relationship with rehabilitation exercises.
+
+The point of training is to build a body that can keep doing things. Recovery is not time stolen from that goal. It is one of the things that makes the goal possible.
+

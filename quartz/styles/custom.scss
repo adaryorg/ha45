@@ -76,7 +76,30 @@
     }
 
     .sidebar.left {
+      position: relative !important;
+      top: auto;
+      width: 100%;
+      min-width: 0;
       height: auto;
+      padding: 0.75rem 0 !important;
+      align-items: center;
+      gap: 0.5rem;
+      overflow: visible;
+
+      > .flex-component {
+        flex: 1 1 auto;
+        min-width: 0;
+      }
+
+      .search {
+        width: 100%;
+        min-width: 0;
+        max-width: none;
+      }
+
+      .recent-notes {
+        display: none;
+      }
     }
   }
 }

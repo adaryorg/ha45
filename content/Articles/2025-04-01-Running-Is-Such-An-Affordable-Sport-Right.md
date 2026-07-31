@@ -2,25 +2,51 @@
 date: 2025-04-01
 draft: false
 tags:
-  - runnig
+  - running
   - article
 title: Running Is Such An Affordable Sport, Right?
 description: Running is cheap until the watches, shoes, clothing, belts, and questionable gear decisions begin to multiply.
 ---
+
 # Running Is Such An Affordable Sport, Right?
 
-## Running Is Such An Affordable Sport, Right?
-All you need is a decent pair of shoes, and off you go. Walk out of the door, and start running. Technically you don't need anything really expensive. It's not like you ride a bicycle that can cost a lot depending on the options you choose, or if you windsurf like myself, you need a board, and sals, masts, booms, extensions, not to mention harnesses, wetsuits ...<br> And then you realize that you need some sort of a fitness tracker. Whether you get an Apple watch (if you are in the Apple ecosystem) or a Garmin, or other alternative like Suunto and similar, you are looking at a piece of gear that is definitely not cheap. Some also opt for external heart rate monitors that add a bit more to the over all cost. And this is only the technology part. <br>Remember how i mentioned a decent pair of shoes? Good running shoes are not cheap. And then the question is which running shoes do I need? Every singel manufacturer has various different models from entry level, through everyday trainers, speed shoes, long run shoes, neutral shoes, supportive shoes, shoes for pavement, shoes for cross country running, competition shoes with carbon plates, vinyl plates ... Its very easy to lose count of how many types of shoes there are, and at some point you will want to have all of them right?<br>And we didn't even touch the clothing. What kind of shirt, what kind of shorts, and lets face it, you need quite a few of those. You will sweat a lot, and you can't really do the laundry every day so shirts will start to pile up, as will shorts and socks, and if you go to a sporting gods store and take a look at the prices, an average shirt nowdays can set you back over $20 if not more, not to mention those $30 shorts and $15 socks. 
+Running is supposed to be the affordable sport. Put on a pair of shoes, walk out of the door, and start moving. No bicycle, no gym membership, and certainly no windsurfing equipment—an impressive collection of boards, sails, masts, booms, extensions, harnesses, and wetsuits apparently designed to bankrupt you one component at a time.
 
-## Is There A Way To Save On The Gear?
-Of course there is. First thing to do is to forget about big brands for everything except shoes. Never save on your shoes since so much depends on them. All of your shirts, trunks and socks don't have to cost more than $5 a piece, and I personally get all of mine either from Temu or Aliexpress, and i look for volume discounts for all of them. I do have a few pieces of way more expensive brand name shirts and shorts, and for the life of me I can't see any difference between them and my cheap Temu gear. Perhaps the fabric is a bit softer with big expensive brands, or the colors are prettier, but bottom line, when I need at least 10 t-shirts, i will always get the 5 for $20 deal versus one for $25. 
-When it comes to shorts or trunks, i pay a bit more attention at what I get, but I still get them for cheap on Temu or Aliexpress. Only thing I care about is that they have a tight liner that is in my case the only thing that stands between me and chafing which can really ruin my day. I also like to have pockets on my trunks, but that is not a must since I always run with a belt that has a few pockets to store gels and keys and even my phone if I take it with me. Same goes for socks. I run with pretty cheap socks, and they never gave me any issues. They are comfortable, don't give me blisters, and don't have any weird seams that will rub against my feet or toes and create issues in the long term.
+Technically, the claim is true. You can run with very little equipment. The trouble begins when “very little” meets the human ability to turn any activity into a shopping category.
 
-## Let's Talk About Shoes
-Running shoes are a different beast, and I admit, i have quite a few pairs that I alternate between for most runs. One thing I will try to avoid is recommending a specific brand, and if you look at my [[Gear]] you will see what brands I use, but the only reason I went with those brands is that I tried them on and they were comfortable for me. Each and every one of us has different feet. Some like have huge wide feet (US 14 2E) and some will have short and narrow feet, and there is everything in between and beyond. Different shoe manufacturers use different molds, and shoes that are super comfortable for me can be absolutely horrible for someone else. Same goes in the opposite direction. A lot of people swear by Adidas, Nike, Asics and other brands, and I still haven't found a single shoe from those three manufacturers that will fit me and be comfortable.<br>My main criteria is that the first time I put the shoe on, it should feel like i'm not wearing a shoe. There should be no pressure at any point, i need to have enough room to move my toes inside the shoe, and walking and running with them should feel easy and natural. As to what kind of shoes should you choose, it's best to consult an expert. There are quite a few running stores around where the staff is genuinely helpful and knowledgeable, and is not only looking to sell as many shoes as possible. They will gladly help you pick the right shoe, and even do gait analisys on a treadmill to see whether you need neutral or supportive shoes. Just remember to always get them one size larger than usual, and make sure they feel super comfortable. You don't really want to end up with black toenails that fall off or other kinds of foot injuries caused by ill fitting shoes.
+## The Equipment Starts Breeding
 
-## Other Gear, Belts, Packs, Etc.
-I like to take as little with me as possible when i go out running. My watch is e-sim capable, and i generally leave my phone at home, and go out running only with my watch, headphones, and in case of long runs (longer than 7km) i will take a little flask of water, and perhaps a gel or two (for very long runs). I always take a belt with me that has a few strategically placed pockets, it's very light, and it got it for next to nothing from Temu. I also have a very light hiking pack with pockets in the front, and a decently sized compartment in the back. if I go for very long runs or hikes I will take that pack with a 2L water bladder, and a few gels. For short runs i might take the pack with a 500ml flask and a few gels. 
+First comes the fitness tracker. It might be an Apple Watch, Garmin, Suunto, or something simpler. Then somebody explains that wrist-based heart-rate readings are not always perfect, so naturally there is now a chest strap involved. The sport that required only shoes has acquired firmware updates.
 
-## In Conclusion
-It's very easy to get lost with all the gear that is offered, especially since everyone and their grandma wants to sell us something (i'm talking about those social media influencers we all watch from time ot time). And that's fine. Everyone wants to earn a buck or two, and as long as we don't throw away the critical thinking part, running doesn't have to be a very expensive sport. Yes. you should invest in a good pair of shoes (or two) but the rest doesn't have to be from big expensive brands. Even when it comes to technology, in most a cases a simple fitness band that is under $80 can do the job of tracking your runs. Same goes with all the apparel. And when it comes to shoes, two pairs can be more than enough for most runners. Just make sure to track their mileage, and replace them after 600-700 kilometers, or when you feel that they are not cushioning properly anymore.
+Then there are the shoes. Every manufacturer offers daily trainers, lightweight trainers, stability shoes, trail shoes, long-run shoes, race shoes, and carbon-plated shoes for people willing to pay extra to feel guilty about running slowly in them. Spend enough time reading reviews and you will become convinced that owning one pair is a threat to public safety.
+
+Clothing joins the operation shortly afterwards. One shirt, one pair of shorts, and one pair of socks are enough—provided you run once and immediately retire. Regular running means laundry, and laundry means enough clothing to survive the gap between remembering it exists and actually doing it.
+
+## Where I Save Money
+
+I spend money on shoes because comfort matters to me and badly fitting shoes can ruin more than a morning. Everything else has to justify itself.
+
+Most of my shirts, shorts, and socks are inexpensive. I own a few expensive branded items and, despite considerable effort, have not discovered the life-changing technology hidden inside a $30 running shirt. The fabric may feel slightly nicer and the logo is certainly more confident, but neither has made me faster.
+
+For shorts, I care about a secure liner, no obvious chafing points, and useful pockets. For socks, I want a comfortable fit without seams that rub. Once those requirements are met, the garment has completed its technical mission.
+
+## Shoes Are Personal
+
+I rotate several pairs, which can be seen in the entirely reasonable collection listed on my [[Gear]] page. I do not recommend a particular brand because feet refuse to follow brand loyalty.
+
+Mine are US size 14 and wide. Shoes that feel excellent on me may be awful for someone with shorter, narrower feet, and the reverse is equally true. Adidas, Nike, and ASICS make shoes loved by millions of runners; I still have not found models from those brands that feel right on my feet. This is not a verdict on the shoes. It is evidence that my feet are awkward.
+
+My basic test is simple: a shoe should feel comfortable immediately. I want no pressure points, enough room for my toes, and a natural feel when walking and running. A knowledgeable running store can help with fit and, where useful, gait assessment. The correct size is the one that gives your feet enough room during a run—not automatically whatever number you have bought for ordinary shoes since 1997.
+
+## What I Actually Carry
+
+For short runs, I take my watch, headphones, and a light running belt for keys and anything else I cannot persuade myself to leave at home. My watch has cellular service, so the phone usually stays behind.
+
+Longer runs add water and, when the distance justifies it, a gel or two. For very long runs or hikes, I use a lightweight pack with a water bladder. None of this needs to be fashionable. It needs to stay in place, avoid rubbing, and perform the complicated task of carrying water.
+
+## Running Can Still Be Cheap
+
+There is an endless supply of people willing to explain why your next purchase is essential, usually while holding an affiliate link. That does not make the equipment bad; it means critical thinking remains useful.
+
+A comfortable pair of shoes, basic clothing, and perhaps an inexpensive fitness band are enough for most people to start. Add equipment when it solves a problem you actually have. Otherwise, the cheapest and most effective running accessory remains the front door.
+

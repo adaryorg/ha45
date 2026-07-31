@@ -1,25 +1,57 @@
 ---
 date: 2025-04-06
 draft: true
-tags: 
+tags:
+  - mindset
+  - fitness
+  - article
 title: Dealing With Imposter Syndrome
 description: On feeling out of place in fitness spaces—and remembering that almost nobody is paying as much attention as you think.
 ---
+
 # Dealing With Imposter Syndrome
 
-How many of you have experienced the feeling of not belonging somewhere, not being good enough for a certain environment, not being good enough for a job?<br>
-If you came to fitness from a background similar to mine, you've been overweight your whole life, you never really did sports, and you probably never really fit into the 'ideal body' type as the world and media like to present it to us.<br>
-## Welcome To Imposter Syndrome!
-For the better part of my life i had a very low self-esteem. I was always the awkward fat dude, and I compensated for it the way probably most overweight people compensate: i tried to be nice to everyone, funny, i always wanted to please everyone, and somehow justify my own existence in that particular time and place where I found myself.<br>
-No mater what I did, or how successful I was at what I did, there was always that little voice in the back of my mind that would nag me, and ask me what the hell am I doing here, why am I doing what I'm doing, and it was just quietly telling me to drop all i'm doing, go home, curl up in a ball, and stay there.<br>
-This might be slightly exaggerated, and perhaps there is no little voice in the back of my mind, but the feeling of not belonging, or not being good enough was always there, and even today I often feel it, whether i'm outside running on my favorite route (with a bunch of other runners around me), or I'm in the gym, exercising, or even just at work, doing my stuff like I do every day.<br>
-In my mind i'm still the awkward fat dude (even though i'm not really fat anymore, and I don't think I was ever really awkward). I still look at myself and see something that I don't like. I might think that my stomach is still too big, or that my legs don't look like a runner's legs, and even worse is 'disappointing' myself if i'm not able to achieve a goal I set myself whether it's lifting a certain weight in an exercise, or running at a certain pace. 
+Have you ever walked into a room and felt that everybody else received an instruction manual you somehow missed? A new job, a gym, a running event—it does not matter. Everyone appears to belong, while you are apparently there because of an administrative error.
 
-## Let's Break All This Down
-First of all, one thing I quickly learned is that most people around me don't even look at me, or care what I look like, what I do, how much I lift, or how fast I run. Other runners are focused on themselves (or at least should be focused on themselves), and if i'm in the gym, other folks are usually either concentrating on their exercise, or on their phones while between sets, and in fact the only one judging me is just myself. Quite often I have to remind myself of what I went through in the last two and a half years, how much I have achieved, and how much I should actually be proud of myself. And even if there are others that do look at me and judge me:
-**WHO** 
-**THE**
-**FUCK**
-**CARES!**
-I'm not there for them, i'm there for me. I don't compete with them, I compete with myself.<br>
-And let's face the facts: social media is really not helping us here. There are so many highly posed and edited videos of those perfect fitness influencers who keep spewing bullshit based on what the highest bidder wants them to say
+Coming to fitness after a lifetime of being overweight adds a particularly irritating version of this feeling. The people around you look like athletes. You still feel like the awkward fat person who should probably apologize for occupying part of the floor.
+
+## The Person In My Head Has Not Caught Up
+
+For much of my life, I had very little self-confidence. I thought of myself as the awkward fat guy and compensated by trying to be agreeable, funny, and useful. If everybody liked me, perhaps nobody would ask why I was there—including me.
+
+Success did not reliably fix this. Whatever I achieved, a small internal committee remained available to explain why it did not count. At the gym, it asked why I was lifting so little. While running, it pointed out that other people were faster. At work, it occasionally suggested that years of competence might have been an unusually persistent clerical mistake.
+
+My body has changed dramatically, but the mental image updates more slowly. I can look at myself and still focus on my stomach, decide my legs do not look like a runner’s legs, or treat a missed pace as a personal failure rather than one ordinary bad run.
+
+Apparently the brain does not offer automatic software updates after weight loss.
+
+## Almost Nobody Is Watching
+
+The useful discovery is that most people are not judging me because most people are not thinking about me at all.
+
+Runners are occupied with their own breathing, pace, distance, and questionable decision to leave the house before sunrise. People at the gym are concentrating on their sets or staring at their phones between them. I am not the central character in their morning. This is both humbling and extremely convenient.
+
+The harshest observer is usually me. When that becomes obvious, I can challenge the judgement instead of accepting it as evidence. I can also look at what I have actually done: lost a substantial amount of weight, rebuilt my health, learned to run, started lifting, and continued showing up.
+
+That evidence is more useful than whatever nonsense my reflection decided to submit that day.
+
+## Social Media Is Not Helping
+
+Fitness content often presents edited bodies, carefully selected angles, ideal lighting, and performances chosen precisely because they were worth posting. The ordinary days—the slow run, the weak session, the afternoon spent doing nothing because recovery was needed—rarely make the final cut.
+
+Comparing a normal life with somebody else’s promotional material is not analysis. It is volunteering to lose a rigged competition.
+
+Some influencers are knowledgeable and honest. Others are attractive sales departments with abdominal muscles. Telling the difference remains part of the exercise.
+
+## The Practical Answer
+
+I try to measure myself against my previous self. Am I stronger than I was? Can I run farther? Am I more consistent? Did I show up when I said I would? Those comparisons are imperfect, but at least they involve the same body and roughly the same reality.
+
+And if somebody really is standing there judging the size of my stomach or the weight on my bar:
+
+**Who the fuck cares?**
+
+I am not training for their approval. I am training because being capable feels better than being ill, and because I would like to remain difficult to kill for as long as possible.
+
+The feeling of not belonging still appears. I no longer treat it as an instruction to leave.
+
