@@ -207,7 +207,17 @@ plugins:
       links:
         Healthy After 45 Discord: https://discord.gg/Jn3c7rbAg
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: Recently Added
+      limit: 5
+      linkToMore: false
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+      position: left
+      priority: 60
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

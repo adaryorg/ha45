@@ -29,10 +29,14 @@ Measure and mix everything in a jar, make sure there are no chia seed clumps. Le
 
 ## Nutritional Values
 
+_Per serving_
+
 | Macro   |       |
 | :------ | ----- |
-| fat     | 11g   |
+| Fat     | 11g   |
 | Carbs   | 34.4g |
 | Protein | 10.6g |
 
 Total Calories: 300
+
+\* Nutritional values are estimates and will vary with brands, measurements, and substitutions.

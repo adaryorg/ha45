@@ -28,6 +28,8 @@ Another nice addition can be 20-30g of dark chocolate chips. I personally use a 
 
 ## Nutritional Values
 
+_Per serving_
+
 | Macro   |       |
 | :------ | ----- |
 | Fat     | 16.5g |
@@ -35,3 +37,5 @@ Another nice addition can be 20-30g of dark chocolate chips. I personally use a 
 | Protein | 71.1g |
 
 Total Calories: 447
+
+\* Nutritional values are estimates and will vary with brands, measurements, and substitutions.
