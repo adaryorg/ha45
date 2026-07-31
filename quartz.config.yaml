@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Healthy After 45
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -21,25 +21,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f7f7f5"
+        lightgray: "#e2e2df"
+        gray: "#969690"
+        darkgray: "#4a4a46"
+        dark: "#1c1c1a"
+        secondary: "#b9470f"
+        tertiary: "#8f350b"
+        highlight: "rgba(217, 91, 27, 0.14)"
+        textHighlight: "#f4a26166"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#181816"
+        lightgray: "#30302d"
+        gray: "#777770"
+        darkgray: "#c7c7c0"
+        dark: "#f2f2ee"
+        secondary: "#ff914d"
+        tertiary: "#ffb37d"
+        highlight: "rgba(255, 145, 77, 0.16)"
+        textHighlight: "#d95b1b88"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -78,11 +78,8 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: true
+    enabled: false
     order: 50
-    layout:
-      position: right
-      priority: 30
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -154,14 +151,13 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: Contents
     layout:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
-    layout:
-      position: right
-      priority: 10
+    enabled: false
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -171,20 +167,11 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
-    layout:
-      position: right
-      priority: 50
+    enabled: false
   - source: github:quartz-community/article-title
-    enabled: true
-    layout:
-      position: beforeBody
-      priority: 10
+    enabled: false
   - source: github:quartz-community/content-meta
-    enabled: true
-    layout:
-      position: beforeBody
-      priority: 20
+    enabled: false
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
@@ -192,9 +179,6 @@ plugins:
       priority: 30
   - source: github:quartz-community/page-title
     enabled: true
-    layout:
-      position: left
-      priority: 10
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
@@ -202,11 +186,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
+    enabled: false
   - source: github:quartz-community/breadcrumbs
     enabled: true
     layout:
@@ -225,8 +205,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Healthy After 45 Discord: https://discord.gg/Jn3c7rbAg
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -250,19 +229,16 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
-    layout:
-      position: beforeBody
-      priority: 15
-      display: all
   - source:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    # The local Healthy After 45 theme replaces this plugin's purple default theme.
+    enabled: false
     options:
       theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw

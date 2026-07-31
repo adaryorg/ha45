@@ -5,24 +5,33 @@ tags:
   - health
   - training
   - nutrition
-  - data
-title: HA45 - Data driven path to health and fitness
+title: Healthy After 45 - Getting Healthier Without The Nonsense
 ---
 
-# Welcome to Healthy After 45
+<section class="home-hero">
+  <div class="home-hero-copy">
+    <p class="page-kicker">Getting Healthier Without The Nonsense</p>
+    <h1>Healthy After 45</h1>
+    <p class="home-hero-lead">No miracle transformation. No heroic thirty-day challenge. Just one stubborn Gen-X adult fixing decades of bad decisions, one habit at a time.</p>
+    <div class="home-hero-actions">
+      <a class="hero-button hero-button-primary" href="./Timeline">Read My Story</a>
+      <a class="hero-button hero-button-secondary" href="./articles">Browse Articles</a>
+    </div>
+  </div>
+  <figure class="home-hero-visual">
+    <img src="./images/ta_marathon.jpg" alt="After finishing the 10K at the Tel Aviv Marathon">
+    <figcaption>Suspiciously cheerful after finishing the Tel Aviv Marathon 10K.</figcaption>
+  </figure>
+</section>
 
-![[images/ta_marathon.jpg|right| 300]] Why do I call this Healthy After 45? Well i'm well over 45, i wasn't really healthy, and I did manage to turn it around and nowadays i'm healthier than ever! 
-Two and a half years ago I was everything but healthy. I was 47 years old, I was severely overweight (or rather morbidly obese), my type 2 diabetes was in an uncontrolled rage, and everything was going downhill. So here is the tl;dr version: I was in a very bad place, I almost died, and since I have quite a few reasons to stay alive, I took control of my health, my weight, and applied my extremely nerdy data driven approach to everything.<br>
-Again tl;dr: Two and a half years later i'm not morbidly obese anymore, quite the opposite. My diabetes is in full remission, and i've never been healthier. I also started running, going to the gym at least two times a week, and eating very healthy (I will write a lot more on these topics soon)<br>
-I will use this site to log my progress, keep track of everything, and occasionally make geeky graphs that should make sense to me. If something like this is your cup of tea, welcome!
+At 47, I was severely overweight, my type 2 diabetes was running the show, and my cardiovascular system had apparently decided that four blocked arteries were a perfectly reasonable design choice. I came far too close to dying. That has a way of clearing the schedule and rearranging your priorities.
 
-(The good looking fella in the photo is me right after finishing the 10k run at the Tel Aviv Marathon)
+A couple of years later, I am no longer morbidly obese, my diabetes is in remission, and I am healthier than I have ever been. I run, lift weights, eat like an adult most of the time, and have accumulated enough running shoes to undermine any claim that running is a cheap hobby.
 
-To avoid any misunderstandings please read the [[Disclaimer]]!<br>
-Since I am a nerd i have to show off my [[gear]]<br>
-Data tracking: [[all_about_data]]
+## What this site is about
 
-Check out the [[Timeline]]. I've come so far in such a short time!
+This is not a miracle-transformation sales pitch, and I am not here to sell a detox, a supplement, or twelve easy payments of anything. It is a personal account of what worked for me, what failed, what I learned, and what I am still figuring out.
 
+You can start with the [[Timeline|full timeline]], browse the [[Articles|blog]], try the [[calculators|health calculators]], or inspect the completely reasonable amount of [[Gear|gear]] one person can accumulate in the name of fitness.
 
-
+I am not a doctor, dietitian, or personal trainer. I am one person describing my own experience, with all the limitations that implies. Please read the [[Disclaimer]] before treating anything here as advice.

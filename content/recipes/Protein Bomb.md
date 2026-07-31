@@ -5,8 +5,9 @@ tags:
   - nutrition
   - recipe
 title: Protein Bomb
+description: A dense, chocolate-and-peanut-butter cottage-cheese bowl with more than 70 grams of protein.
 ---
-# [[protein_bomb]]
+# Protein Bomb
 
 ## Recipe Description
 A very simple mix of tasty stuff that is packed with protein and does down smooth :)

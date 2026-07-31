@@ -1,7 +1,9 @@
 import { PageFrame, PageFrameProps } from "./types"
 import HeaderConstructor from "../Header"
+import SiteFooterConstructor from "../SiteFooter"
 
 const Header = HeaderConstructor()
+const SiteFooter = SiteFooterConstructor()
 
 /**
  * Full-width page frame — no sidebars. The center content area spans the
@@ -13,14 +15,7 @@ const Header = HeaderConstructor()
  */
 export const FullWidthFrame: PageFrame = {
   name: "full-width",
-  render({
-    componentData,
-    header,
-    beforeBody,
-    pageBody: Content,
-    afterBody,
-    footer: Footer,
-  }: PageFrameProps) {
+  render({ componentData, header, beforeBody, pageBody: Content, afterBody }: PageFrameProps) {
     return (
       <>
         <div class="center full-width">
@@ -44,7 +39,7 @@ export const FullWidthFrame: PageFrame = {
             ))}
           </div>
         </div>
-        <Footer {...componentData} />
+        <SiteFooter {...componentData} />
       </>
     )
   },

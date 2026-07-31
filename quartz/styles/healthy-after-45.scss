@@ -1,0 +1,116 @@
+/*
+ * Healthy After 45
+ * Charcoal, warm gray, and orange theme for Quartz and Obsidian-compatible components.
+ */
+
+:root {
+  color-scheme: light;
+
+  --ha45-orange: #b9470f;
+  --ha45-orange-hover: #8f350b;
+  --ha45-orange-soft: rgba(217, 91, 27, 0.14);
+
+  --background-primary: var(--light);
+  --background-primary-alt: #efefec;
+  --background-secondary: #e8e8e4;
+  --background-secondary-alt: #deded9;
+  --background-modifier-border: var(--lightgray);
+  --background-modifier-border-hover: var(--gray);
+  --background-modifier-border-focus: var(--secondary);
+  --background-modifier-hover: var(--highlight);
+  --background-modifier-form-field: var(--light);
+
+  --text-normal: var(--darkgray);
+  --text-muted: #686861;
+  --text-faint: var(--gray);
+  --text-accent: var(--secondary);
+  --text-accent-hover: var(--tertiary);
+  --text-on-accent: #ffffff;
+  --text-selection: var(--highlight);
+
+  --interactive-normal: var(--light);
+  --interactive-hover: var(--lightgray);
+  --interactive-accent: var(--secondary);
+  --interactive-accent-hover: var(--tertiary);
+
+  --color-accent: var(--secondary);
+  --color-accent-1: #cf571a;
+  --color-accent-2: var(--tertiary);
+  --accent-h: 20;
+  --accent-s: 85%;
+  --accent-l: 39%;
+
+  --nav-item-color: var(--darkgray);
+  --nav-item-color-hover: var(--dark);
+  --nav-item-color-active: var(--secondary);
+  --nav-item-background-hover: var(--highlight);
+  --nav-item-background-active: var(--highlight);
+
+  --link-color: var(--secondary);
+  --link-color-hover: var(--tertiary);
+  --tag-color: var(--secondary);
+  --tag-background: var(--highlight);
+  --tag-background-hover: color-mix(in srgb, var(--secondary) 22%, transparent);
+
+  --icon-color: var(--darkgray);
+  --icon-color-hover: var(--secondary);
+  --icon-color-active: var(--secondary);
+  --checkbox-color: var(--secondary);
+  --blockquote-border-color: var(--secondary);
+  --table-border-color: var(--lightgray);
+  --table-header-color: var(--dark);
+  --table-row-background-hover: var(--highlight);
+  --scrollbar-thumb-bg: color-mix(in srgb, var(--dark) 18%, transparent);
+
+  // Prevent Obsidian-compatible components from falling back to purple accents.
+  --color-purple: var(--secondary);
+  --color-purple-rgb: 185, 71, 15;
+  --color-pink: #d86a32;
+  --color-pink-rgb: 216, 106, 50;
+  --callout-example: var(--secondary);
+  --canvas-color-6: var(--secondary);
+}
+
+:root[saved-theme="dark"] {
+  color-scheme: dark;
+
+  --ha45-orange: #ff914d;
+  --ha45-orange-hover: #ffb37d;
+  --ha45-orange-soft: rgba(255, 145, 77, 0.16);
+
+  --background-primary: var(--light);
+  --background-primary-alt: #20201e;
+  --background-secondary: #252522;
+  --background-secondary-alt: var(--lightgray);
+  --background-modifier-border: var(--lightgray);
+  --background-modifier-border-hover: var(--gray);
+  --background-modifier-border-focus: var(--secondary);
+  --background-modifier-hover: var(--highlight);
+  --background-modifier-form-field: #20201e;
+
+  --text-normal: var(--darkgray);
+  --text-muted: #aaa9a1;
+  --text-faint: var(--gray);
+  --text-accent: var(--secondary);
+  --text-accent-hover: var(--tertiary);
+  --text-on-accent: #181816;
+  --text-selection: var(--highlight);
+
+  --interactive-normal: #20201e;
+  --interactive-hover: var(--lightgray);
+  --interactive-accent: var(--secondary);
+  --interactive-accent-hover: var(--tertiary);
+
+  --color-accent: var(--secondary);
+  --color-accent-1: #ffa26a;
+  --color-accent-2: var(--tertiary);
+  --accent-h: 23;
+  --accent-s: 100%;
+  --accent-l: 65%;
+
+  --color-purple: var(--secondary);
+  --color-purple-rgb: 255, 145, 77;
+  --color-pink: #ffab78;
+  --color-pink-rgb: 255, 171, 120;
+  --scrollbar-thumb-bg: color-mix(in srgb, var(--dark) 22%, transparent);
+}

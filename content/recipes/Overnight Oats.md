@@ -1,11 +1,13 @@
 ---
 date: 2025-03-27
 draft: false
+title: Overnight Oats
+description: A simple make-ahead breakfast with oats, chia seeds, yogurt, milk, and maple syrup.
 tags:
   - recipe
   - nutrition
 ---
-# [[overnight oats]]
+# Overnight Oats
 
 ## Recipe Description
 
