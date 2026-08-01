@@ -213,7 +213,7 @@ plugins:
     enabled: true
     options:
       title: Recently Added
-      limit: 5
+      limit: 20
       linkToMore: false
       showTags: false
       hideTagPages: true

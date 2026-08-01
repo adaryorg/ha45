@@ -14,6 +14,8 @@ import cyclingCalculatorsScript from "../../components/scripts/cyclingCalculator
 import runningCalculatorsScript from "../../components/scripts/runningCalculators.inline"
 // @ts-ignore
 import trainingCalculatorsScript from "../../components/scripts/trainingCalculators.inline"
+// @ts-ignore
+import recentNotesFilterScript from "../../components/scripts/recentNotesFilter.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
@@ -96,6 +98,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   componentResources.afterDOMLoaded.push(cyclingCalculatorsScript)
   componentResources.afterDOMLoaded.push(runningCalculatorsScript)
   componentResources.afterDOMLoaded.push(trainingCalculatorsScript)
+  componentResources.afterDOMLoaded.push(recentNotesFilterScript)
 
   // popovers
   if (cfg.enablePopovers) {
