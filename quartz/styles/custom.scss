@@ -81,12 +81,9 @@
       "grid-footer";
 
     .site-header-shell {
+      z-index: 300;
       margin: 0 -1rem;
       padding: 0 1rem;
-
-      &:has(.nav-dropdown details[open]) {
-        z-index: 300;
-      }
     }
 
     .sidebar.left {
@@ -101,6 +98,11 @@
       align-items: center;
       gap: 0.5rem;
       overflow: visible;
+
+      &:has(.search-container.active),
+      &:has(.explorer-content[aria-expanded="true"]) {
+        z-index: 400 !important;
+      }
 
       > .flex-component {
         flex: 1 1 auto;
