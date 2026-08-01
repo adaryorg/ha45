@@ -353,8 +353,9 @@
 
 // Calculators live in the permanent top navigation rather than the document explorer.
 // Keep this in tracked site CSS: installed plugins under .quartz are regenerated in production.
-.explorer .folder-container[data-folderpath="calculators"],
-.explorer .folder-container[data-folderpath="calculators"] + .folder-outer {
+.explorer .folder-container[data-folderpath="calculators/index"],
+.explorer .folder-container[data-folderpath="calculators/index"] + .folder-outer,
+.sidebar.left .recent-notes .recent-li:has(a[href*="calculators/"]) {
   display: none;
 }
 
