@@ -83,6 +83,10 @@
     .site-header-shell {
       margin: 0 -1rem;
       padding: 0 1rem;
+
+      &:has(.nav-dropdown details[open]) {
+        z-index: 300;
+      }
     }
 
     .sidebar.left {
