@@ -65,6 +65,10 @@ export interface GlobalConfiguration {
   enablePopovers: boolean
   /** Analytics mode */
   analytics: Analytics
+  /** Google AdSense configuration. When set, loads the AdSense script on every page. */
+  googleAdsense?: {
+    client: string
+  }
   /** Glob patterns to not search */
   ignorePatterns: string[]
   /** Base URL to use for CNAME files, sitemaps, and RSS feeds that require an absolute URL.

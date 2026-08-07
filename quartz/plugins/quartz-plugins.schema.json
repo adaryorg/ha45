@@ -168,6 +168,18 @@
           "type": "object",
           "description": "Analytics configuration"
         },
+        "googleAdsense": {
+          "type": "object",
+          "required": ["client"],
+          "additionalProperties": false,
+          "description": "Google AdSense configuration",
+          "properties": {
+            "client": {
+              "type": "string",
+              "description": "AdSense publisher client ID (e.g. ca-pub-XXXXXXXXXXXXXXXX)"
+            }
+          }
+        },
         "ignorePatterns": {
           "type": "array",
           "items": {
