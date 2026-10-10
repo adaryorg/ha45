@@ -1,3 +1,9 @@
+---
+title: Windsurfing gear for sale
+description: Windsurfing gear for sale
+draft: false
+---
+
 ציוד גלישת רוח למכירה
 
 | Starboard carve 149 + bag <br><br><br>התיק מתאים לגלשן ושני מפרשים + שני<br>תרנים + מנור + ציוד קטן<br> | 7500 | [![pic](ws_images/carve_t.jpg)](ws_images/carve.jpg)                                                           |
