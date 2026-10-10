@@ -8,7 +8,7 @@ draft: false
 
 | Starboard carve 149 + bag <br><br><br>התיק מתאים לגלשן ושני מפרשים + שני<br>תרנים + מנור + ציוד קטן<br> | 7500 | [![pic](ws_images/carve_t.jpg)](ws_images/carve.jpg)                                                           |
 | ------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------- |
-| RRD Firemove 120 + Foil + bag<br><br>ימכר רק ביחד, גלשו, תיק ופוייל<br><br>                             | 6500 | [![pic](ws_images/firemove_t.jpg)](ws_images/firemove.jpg)  [![pic](ws_images/foil_t.png)](ws_images/foil.png) |
+| RRD Firemove 120 + Foil + bag<br><br>ימכר רק ביחד, גלשן, תיק ופוייל<br><br>                             | 6500 | [![pic](ws_images/firemove_t.jpg)](ws_images/firemove.jpg)  [![pic](ws_images/foil_t.png)](ws_images/foil.png) |
 | Severne NCX 8                                                                                           | 700  | [![pic](ws_images/ncx_t.jpg)](ws_images/ncx.jpg)                                                               |
 | Gaastra Hybrid 7.2                                                                                      | 1700 | [![pic](ws_images/hybrid_t.jpg)](ws_images/hybrid.jpg)                                                         |
 | RRD F-wing 6.0                                                                                          | 1500 | [![pic](ws_images/f-wing_t.jpg)](ws_images/f-wing.jpg)                                                         |
